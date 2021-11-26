@@ -47,6 +47,7 @@ User should be able to login / register and has access to profile page if login.
 
 ## Design
 
+Basic design for the frontend can be accessed inside design folder.
 
 ## Evaluation
 
