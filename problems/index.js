@@ -24,7 +24,6 @@ function findJudge(trust) {
             }
         }
     });
-    // if (suspectedJudges.every(num => )) return -1
     return suspectedJudges[0] || -1;
 }
 [
