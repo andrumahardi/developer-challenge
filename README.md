@@ -2,14 +2,20 @@
 
 ## How to run
 
-```code
+```javascript
+// if typescript is not installed run
+
 npm i -g typescript
 ```
 
-```code
+```javascript
+// go to project directory
+
 cd problems/
 ```
 
-```code
-tsc && node problem-1_solved.js
+```javascript
+// run program
+
+tsc --outFile index.js && node index.js
 ```
